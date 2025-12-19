@@ -1,0 +1,9 @@
+error_name,video_count,mean,min,max,type
+bad_ball_position_too_far,1,2,2,2,static
+bad_chipping_swings,1,7,7,7,dynamic
+bad_driver_swings,1,8,8,8,dynamic
+bad_elbow_posture_backswing,1,5,5,5,dynamic
+bad_far_from_ball,1,2,2,2,static
+bad_iron_swings,1,7.5,7.5,7.5,dynamic
+good_ball_position,1,7,7,7,dynamic
+good_knee_posture,1,7,7,7,dynamic

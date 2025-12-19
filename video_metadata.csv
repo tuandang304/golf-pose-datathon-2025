@@ -1,0 +1,9 @@
+view,swing_quality,error_name,video_path,fps,frame_count,duration_sec
+BACK_VIEW,Bad Swings,bad_chipping_swings,CUSTOM_DATASET/BACK_VIEW/Bad Swings/Bad Chipping Swings/Untitled00000102.mp4,30,210,7.0
+BACK_VIEW,Bad Swings,bad_driver_swings,CUSTOM_DATASET/BACK_VIEW/Bad Swings/Bad Driver Swings/Untitled00000498.mp4,30,240,8.0
+BACK_VIEW,Bad Swings,bad_far_from_ball,CUSTOM_DATASET/BACK_VIEW/Bad Swings/Bad Far From Ball/Back_Too_Far_1.mp4,30,60,2.0
+BACK_VIEW,Good Swings,good_knee_posture,CUSTOM_DATASET/BACK_VIEW/Good Swings/Good Knee Posture/good_swing_1.mp4,30,210,7.0
+SIDE_VIEW,Bad Swings,bad_ball_position_too_far,CUSTOM_DATASET/SIDE_VIEW/Bad Swings/Bad Ball Position Too Far/bad_swing_1.mp4,30,60,2.0
+SIDE_VIEW,Good Swings,good_ball_position,CUSTOM_DATASET/SIDE_VIEW/Good Swings/Good Ball Position/good_swing_1.mp4,30,210,7.0
+BACK_VIEW,Bad Swings,bad_iron_swings,CUSTOM_DATASET/BACK_VIEW/Bad Swings/Bad Iron Swings/Untitled00000082.mp4,30,225,7.5
+SIDE_VIEW,Bad Swings,bad_elbow_posture_backswing,CUSTOM_DATASET/SIDE_VIEW/Bad Swings/Bad Elbow Posture Backswing/bad_swing_2.mp4,30,150,5.0
