@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env / build
+.venv/
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+
+# Outputs
+outputs/
+
+# Data
+data/*.csv
+
+# Logs
+*.log

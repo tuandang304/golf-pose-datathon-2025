@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+joblib
+scipy
+pyyaml
+imbalanced-learn
